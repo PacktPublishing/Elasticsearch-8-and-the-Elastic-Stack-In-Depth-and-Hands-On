@@ -1,0 +1,10 @@
+A note on entering CURL commands.
+We will be using a modified version of the curl command to send commands to Elasticsearch for the next few sections, until we introduce Kibana and its Dev Tools. This will show you the low-level API of Elasticsearch which you might use when connecting to it programmatically from an app of some kind.
+
+Many students like to "type along" with me in the videos in order to help the syntax of the commands sink in. But if you type faster than I do, this can be frustrating. So we're trying something new...
+
+Many of the hands-on videos have been edited to show the entire command I'm about to type before I type it. So while you'll hear me typing it in the background, it's all there for you to type as quickly as you'd like - or to simply study the command in its entirety while I'm typing it in.
+
+This might seem a little strange at first, but we think it will result in a better learning experience for many of you.
+
+When we get to more complex commands later in the course, we'll generally point you to a website where you can simply copy and paste them from to save time.
